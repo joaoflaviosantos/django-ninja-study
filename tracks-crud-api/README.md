@@ -38,12 +38,12 @@ python3 manage.py runserver
 
 ### 2 - Testing EndPoints:
 
-#### Access API docs on any browser:
+#### Access API docs:
 
 > http://127.0.0.1:8000/api/docs
 
 
-#### Access admin Django on any browser:
+#### Access Django admin:
 
 - http://127.0.0.1:8000/admin
 
