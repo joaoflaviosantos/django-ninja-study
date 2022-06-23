@@ -1,0 +1,11 @@
+# __pycache__ is a folder containing Python 3 bytecode compiled and ready to be executed
+**/__pycache__
+
+# Virtualenv folder with project dependencies
+venv
+
+# Best praticals referecial from other projects
+**/backup
+
+# pgdata docker
+**/pgdata
